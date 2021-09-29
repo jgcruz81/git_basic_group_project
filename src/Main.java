@@ -4,6 +4,7 @@ public class Main {
         System.out.println("This is a simple addition problem.");
 
         int result = 2 + 1;
+        //test message
 
         System.out.println("2 + 1 = " + result);
     }
